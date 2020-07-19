@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi! I'm Augusto! 👋
 
+<p align="center">
+<a href="www.linkedin.com/in/augustoanibalayala">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+</p>
+
+Nice to meet you! I'm a software developer, originally from Salta, Argentina. I love writing code.
 <!--
 **AugustoAyala/AugustoAyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
