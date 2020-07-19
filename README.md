@@ -2,10 +2,8 @@
 :wave: Hi! I'm Augusto! 
 </p>
 <p align="center">
-<a href="www.linkedin.com/in/augustoanibalayala">
+<a href="https://www.linkedin.com/in/augustoanibalayala">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://img.shields.io/badge/-Github-%233781da">
-<img src="https://github.com/AugustoAyala" alt="Github"/></a> 
 </p>
 
 Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with :yellow_circle: Javascript like :large_blue_circle: ReactJS and :green_circle: Node.js. LINUX forever.
