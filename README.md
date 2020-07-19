@@ -1,5 +1,5 @@
 <p align="center">
-### Hi! I'm Augusto! 👋
+:bearded_person: Hi! I'm Augusto! 👋
 </p>
 <p align="center">
 <a href="www.linkedin.com/in/augustoanibalayala">
