@@ -4,7 +4,7 @@
 
 
 Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with :yellow_circle: Javascript like  ReactJS and Node.js. LINUX preferably.
-<p><img alt="Javascripts" src="https://img.shields.io/badge/-javascript-yellow" /> <img alt="Node" src="https://img.shields.io/badge/-node.js-green" /> <img alt="React" src="https://img.shields.io/badge/-react-blue" /> 
+<p><img alt="Javascripts" src="https://img.shields.io/badge/-Javascript-yellow" /> <img alt="Node" src="https://img.shields.io/badge/-Node.js-green" /> <img alt="React" src="https://img.shields.io/badge/-React-blue" /> 
 </p>
 
 ## Contact Page:
