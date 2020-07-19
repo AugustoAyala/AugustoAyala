@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 </p>
 
-Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. :purple_heart: I love writing code. I'm a senior software engineer passionate about web technologies with :yellow_circle: Javascript like :large_blue_circle: ReactJS and :green_circle: Node.js. :purple_circle: Linux forever.
+Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with :yellow_circle: Javascript like :large_blue_circle: ReactJS and :green_circle: Node.js. LINUX forever.
 <!--
 **AugustoAyala/AugustoAyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
