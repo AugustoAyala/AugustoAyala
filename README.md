@@ -1,12 +1,12 @@
 <p align="center">
-:bearded_person: Hi! I'm Augusto! 👋
+:bearded_person: Hi! I'm Augusto! 	:argentina:	:argentina:
 </p>
 <p align="center">
 <a href="www.linkedin.com/in/augustoanibalayala">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 </p>
 
-💬 Nice to meet you! I'm a software developer, originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with Javascript like ReactJS and Node.js.
+💬 Nice to meet you! :computer: I'm a software developer,:earth_americas: originally from Salta, Argentina. :purple_heart: I love writing code. I'm a senior software engineer passionate about web technologies with Javascript like ReactJS and Node.js.
 <!--
 **AugustoAyala/AugustoAyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
