@@ -4,13 +4,13 @@
 
 
 Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with :yellow_circle: Javascript like  ReactJS and Node.js. LINUX preferably.
-<p><img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" />  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> 
+<p><img alt="Javascripts" src="https://img.shields.io/badge/-javascript-yellow" /> <img alt="Node" src="https://img.shields.io/badge/-node.js-green" /> <img alt="React" src="https://img.shields.io/badge/-react-blue" /> 
 </p>
 
 ## Contact Page:
 
 - [ Web personal](https://ayalaaugusto.github.io/pagina-augusto/)  
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/augustoanibalayala">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 </p>
