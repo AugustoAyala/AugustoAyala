@@ -3,7 +3,7 @@
 </p>
 
 
-Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with :yellow_circle: Javascript like  ReactJS and Node.js. LINUX preferably.
+Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with Javascript like  ReactJS and Node.js. LINUX preferably.
 <p><img alt="Javascripts" src="https://img.shields.io/badge/-Javascript-yellow" /> <img alt="Node" src="https://img.shields.io/badge/-Node.js-green" /> <img alt="React" src="https://img.shields.io/badge/-React-blue" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-orange" />
 </p>
 
