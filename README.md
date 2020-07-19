@@ -1,6 +1,6 @@
 ### Hi! I'm Augusto! 👋
 <p align="center">
-<img src="https://raw.githubusercontent.com/AugustoAyala/AugustoAyala/master/javascript.jpg" alt="Hi! I'm Augusto! 👋" />
+<img src="https://raw.githubusercontent.com/AugustoAyala/AugustoAyala/javascript.jpg" alt="Hi! I'm Augusto! 👋" />
 </p>
 <p align="center">
 <a href="www.linkedin.com/in/augustoanibalayala">
