@@ -1,6 +1,4 @@
-<p align="center">
-<h1>:wave: Hi! I'm Augusto!</H1> 
-</p>
+<img src="https://github.com/AugustoAyala/AugustoAyala/blob/master/image.jpg" alt="LinkedIn"/></a>  
 
 
 Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with Javascript like  ReactJS and Node.js. LINUX preferably.
