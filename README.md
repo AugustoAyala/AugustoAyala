@@ -2,17 +2,17 @@
 
 
 Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with Javascript like  ReactJS and Node.js. LINUX preferably.
-<p><img alt="Javascripts" src="https://img.shields.io/badge/-Javascript-yellow" /> <img alt="Node" src="https://img.shields.io/badge/-Node.js-green" /> <img alt="React" src="https://img.shields.io/badge/-React-blue" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-orange" />
+<p><a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img alt="Javascripts" src="https://img.shields.io/badge/-Javascript-yellow" /></a><a href="https://nodejs.org/es/"> <img alt="Node" src="https://img.shields.io/badge/-Node.js-green" /></a><a href="https://es.reactjs.org/"> <img alt="React" src="https://img.shields.io/badge/-React-blue" /></a> <a href="https://www.kernel.org/"> <img alt="Linux" src="https://img.shields.io/badge/-Linux-orange" /></a>
 </p>
 📫 How to reach me: ayala_815@hotmail.com
 
 ## Contact Page:
 
-- [ Web personal](https://ayalaaugusto.github.io/pagina-augusto/)  
-<p>
-<a href="https://www.linkedin.com/in/augustoanibalayala">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-</p>
+ [<img src ="https://img.shields.io/badge/Website-augusto-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://ayalaaugusto.github.io/pagina-augusto/) 
+ 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/augustoanibalayala/)
+ 
+
 <!--
 **AugustoAyala/AugustoAyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
