@@ -8,9 +8,9 @@ Nice to meet you! I'm a software developer,:argentina: originally from Salta, Ar
 
 ## Contact Page:
 
- [<img src ="https://img.shields.io/badge/Website-augusto-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://ayalaaugusto.github.io/pagina-augusto/) 
+ [<img src ="https://img.shields.io/badge/Website-augusto-%23.svg?&style=plastic&logo=&logoColor=white%22%22">](https://ayalaaugusto.github.io/pagina-augusto/) 
  
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/augustoanibalayala/)
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=social&logo=linkedin&logoColor=white%22" />](https://www.linkedin.com/in/augustoanibalayala/)
  
 
 <!--
