@@ -1,7 +1,7 @@
 <img src="https://github.com/AugustoAyala/AugustoAyala/blob/master/image.jpg" alt="LinkedIn"/></a>  
 
 
-Nice to meet you! I'm a software developer,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with Javascript like  ReactJS and Node.js. LINUX preferably.
+Nice to meet you! I'm Augusto Ayala,:argentina: originally from Salta, Argentina. I love writing code. I'm a senior software engineer passionate about web technologies with Javascript like  ReactJS and Node.js. LINUX preferably.
 <p><a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img alt="Javascripts" src="https://img.shields.io/badge/-Javascript-yellow" /></a><a href="https://nodejs.org/es/"> <img alt="Node" src="https://img.shields.io/badge/-Node.js-green" /></a><a href="https://es.reactjs.org/"> <img alt="React" src="https://img.shields.io/badge/-React-blue" /></a> <a href="https://www.kernel.org/"> <img alt="Linux" src="https://img.shields.io/badge/-Linux-orange" /></a>
 </p>
 📫 How to reach me: ayala_815@hotmail.com
